@@ -22,3 +22,5 @@ This project is a web application built using **ASP.NET Core**. It demonstrates 
 3. The front-end views are built using Razor templates, ensuring a dynamic and interactive user interface.
 4. RESTful APIs may be used for data exchange, allowing scalability and integration with other systems.
 
+
+![ASP net web app](https://github.com/user-attachments/assets/a19cd22c-e30d-4e7d-8c85-f60d1c4d1e7b)
