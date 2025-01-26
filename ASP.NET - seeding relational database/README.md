@@ -12,3 +12,4 @@ This project demonstrates how to seed a relational database using **ASP.NET Core
 - **ASP.NET Core**: Framework for building web applications and APIs.
 - **Entity Framework Core**: for database access and seeding.
 - **SQL**: Relational database management.
+![Data entry with Pagination](https://github.com/user-attachments/assets/34abae11-d49c-4eec-a692-2e4cf7f66f31)
