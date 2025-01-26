@@ -35,3 +35,4 @@ The FitPro Gym Membership Management System is a web application designed to man
 4. **Validation**:
    - Validation rules ensure data correctness (e.g., no duplicate membership plan names).
 
+[FitPro.pdf](https://github.com/user-attachments/files/18548576/FitPro.pdf)
